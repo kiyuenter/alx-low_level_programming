@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Create main file with void
- * always return to 0
+ * main -entry point
+ * Return: Always 0 (sucess0
  **/
 int main(void)
 {
